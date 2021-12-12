@@ -1,4 +1,4 @@
-# Simple Data Visualization
+# Call of Duty Main Menu
 
 ![preview](preview.gif)
 
