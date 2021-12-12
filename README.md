@@ -2,7 +2,7 @@
 
 ![preview](preview.gif)
 
-<!-- #### https://simple-data-viz.vercel.app/ -->
+#### https://callofduty-main-menu.vercel.app/
 
 I saw Call of Duty has cool motion design for their Main Menu UI. I think it will be cool if i can make it in the browser. So here it is.
 
